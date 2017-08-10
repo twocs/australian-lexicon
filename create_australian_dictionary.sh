@@ -26,3 +26,6 @@ grep . australian-espeak > australian-espeak-ta
 sed -f ../ta_sed_script2 australian-espeak-ta > australian-ipa-phonemes.xml
 
 paste australian-wordlist.xml australian-ipa-phonemes.xml > australian-english-dictionary.xml
+
+mkdir --p ../output
+cp australian-english-dictionary.xml ../output
