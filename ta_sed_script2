@@ -1,0 +1,18 @@
+# delete all empty lines # can't be done in windows due to a sed bug
+#s/^[:blank:]*[:cntrl:]*//
+
+# remove spaces from each line (left trim)
+s/^ *//
+
+# wrap every line with a <phoneme> tag
+s/.*/\<phoneme\>&\<\/phoneme\>/
+
+# wrap entire file with <lexicon> tag
+1i<lexicon version=\"1.1\" alphabet=\"ipa\" xml:lang=\"en-AU\">
+1i\\
+
+# add a blank line to the end
+$a\\
+
+# add a close tag
+$a</lexicon>

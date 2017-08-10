@@ -1,0 +1,11 @@
+# wrap each line in an audio tag
+s/.*/\<audio\>&\<\/audio\>/
+
+#add blank line at the beginning of the file for merging
+1i\\
+
+# wrap entire file in speak tag
+1i<speak>
+
+# close speak tag
+$a\</speak>

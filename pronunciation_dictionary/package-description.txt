@@ -1,0 +1,10 @@
+English dictionaries for OpenOffice/LibreOffice 4.0+ in an individual extension.
+
+These are the dictionary files bundled with the English version of Apache OpenOffice.
+
+It includes:
+- en_AU (Australian) (updated: 2017-01-22)
+- en_CA (Canadian) (updated: 2017-01-22)
+- en_GB (British) (updated: 2017-07-01)
+- en_US (American) (updated: 2017-01-22)
+- en_ZA (South African) (updated: 2012-07-10)
