@@ -1,3 +1,344 @@
+MAGP 2021-10-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 1147 new words(1) (2021-10-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2021-09-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 1437 new words(1) (2021-09-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2021-08-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 1225 new words(1) (2021-08-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2021-07-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 1171 new words(1) (2021-07-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2021-06-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 808 new words(1) (2021-06-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2021-05-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 931 new words(1) (2021-05-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2021-04-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 1560 new words(1) (2021-04-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2021-03-01
+
+Updated the Dictionaries:
+- South African (small fix: https://bugs.documentfoundation.org/show_bug.cgi?id=140102) 
+- British (Marco A.G.Pinto)*
+  * British has 1791 new words(1) (2021-03-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2021-02-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 1568 new words(1) (2021-02-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2021-01-01
+
+Updated the Dictionaries:
+- Australian (Kevin Atkinson)
+- American (Kevin Atkinson)
+- Canadian (Kevin Atkinson)
+- British (Marco A.G.Pinto)*
+  * British has 1 181 new words(1) (2021-01-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2020-12-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 1131 new words(1) (2020-12-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2020-11-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 964 new words(1) (2020-11-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2020-10-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 740 new words(1) (2020-09-01) + 447 new words(1) (2020-10-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2020-08-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 634 new words(1) (2020-08-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2020-07-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 1004 new words(1) (2020-07-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2020-06-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 2874 new words(1) (2020-06-01).
+	(1) Added tons of plurals and possessives.
+		Added tons of astronomy words.
+
+
+
+MAGP 2020-05-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 2404 new words(1) (2020-05-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2020-04-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 2149 new words(1) (2020-04-01).
+	(1) Added tons of plurals and possessives.
+		Added tons of COVID-19 related terms.
+		Removed hundreds of duplicates.
+
+
+
+MAGP 2020-03-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 1507 new words(1) (2020-03-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2020-02-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 1834 new words(1) (2020-02-01).
+	(1) Added tons of plurals and possessives.
+	I didn't wait two months to update the .oxt because the plurals and
+	possessives added were too important.
+
+
+
+MAGP 2020-01-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 1673 new words(1) (2019-12-01) + 1543 new words(1) (2020-01-01).
+	(1) Added tons of plurals and possessives.
+
+
+
+MAGP 2019-11-01
+
+Updated the Dictionaries:
+- Australian (Kevin Atkinson)
+- American (Kevin Atkinson)
+- Canadian (Kevin Atkinson)
+- British (Marco A.G.Pinto)*
+  * British has 1081 new words(1) (2019-10-01) + 1255 new words(2) (2019-11-01).
+	(1) at least, because TOTAL_NEW_WORDS = TOTAL_CURRENT_WORDS - TOTAL_PREVIOUS_WORDS
+		and there were tons of duplicates removed and cleaned/simplified the .dic.
+		There were also tons of plurals/possessives added (WIP).
+	(2) Added tons of plurals and possessives.
+
+
+
+MAGP 2019-09-01
+
+- Converted some line endings in this file from Windows to Unix.
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 2822 new words(1) (2019-08-01) + 1705 new words(1) (2019-09-01).
+	(1) at least, because TOTAL_NEW_WORDS = TOTAL_CURRENT_WORDS - TOTAL_PREVIOUS_WORDS
+		and there were tons of duplicates removed and cleaned/simplified the .dic.
+		There were also tons of plurals/possessives added (WIP).
+
+
+
+MAGP 2019-07-01
+
+- Improved the description of the Extension.
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 614 new words (2019-06-01) + 180 new words(1) (2019-07-01).
+	(1) at least, because TOTAL_NEW_WORDS = TOTAL_CURRENT_WORDS - TOTAL_PREVIOUS_WORDS
+		and there were tons of duplicates removed and cleaned/simplified the .dic.
+		There were also tons of plurals/possessives added (WIP).
+
+
+
+MAGP 2019-05-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 2358 new words (2019-04-01) + 458 new words (2019-05-01).
+
+
+
+MAGP 2019-03-01
+
+Added the LGPL_V3 License .txt into the Extension.
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 764 new words (2019-02-01) + 1046 new words (2019-03-01).
+
+
+
+MAGP 2019-01-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 1529 new words (2018-12-01) + 1175 new words (2019-01-01).
+
+
+
+MAGP 2018-11-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 5225 new words (2018-10-01) + 1138 new words (2018-11-01).
+
+
+
+MAGP 2018-09-01
+
+Improved the logo quality since Pedro Marques sent me the original model which can be resized in all sizes.
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 5101 new words (2018-08-01) + 14713 new words (2018-09-01).
+
+
+
+MAGP 2018-07-01
+
+Updated the Dictionaries:
+- Australian (Kevin Atkinson)
+- American (Kevin Atkinson)
+- Canadian (Kevin Atkinson)
+- British (Marco A.G.Pinto)*
+  * British has 3656 new words (2018-06-01) + 7101 new words (2018-07-01).
+
+
+
+MAGP 2018-05-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 820 new words (2018-04-01) + 857 new words (2018-05-01).
+
+
+
+MAGP 2018-03-01
+
+Simplified the Extension description.
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 1421 new words (2018-02-01) + 1208 new words (2018-03-01).
+
+
+
+MAGP 2018-01-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 1483 new words (2017-12-01) + 3034 new words (2018-01-01).
+	In November + December I added THOUSANDS of possessives to proper names.
+	Added 500+ proper names.
+
+
+
+MAGP 2017-11-01
+
+Updated the Dictionaries:
+- British (Marco A.G.Pinto)*
+  * British has 467 new words (2017-10-01) + 824 new words (2017-11-01).
+
+
+
+MAGP 2017-09-01
+
+Updated the Dictionaries:
+- Australian (Kevin Atkinson)
+- American (Kevin Atkinson)
+- Canadian (Kevin Atkinson)
+- British (Marco A.G.Pinto)*
+  * British has 473 new words (2017-08-01) + 297 new words (2017-09-01).
+
+
+
 MAGP 2017-07-01
 
 Updated the Dictionaries:
@@ -51,8 +392,8 @@ Updated the Dictionaries:
 - Canadian (Kevin Atkinson)
 - British (Marco A.G.Pinto)*
   * British has 773 new words (2016-08-01) + 728 new words (2016-09-01).
-    GB changelog is no longer included in the README file,
-    instead there are links inside it that point to the information
+	GB changelog is no longer included in the README file,
+	instead there are links inside it that point to the information
 	(lower filesize).
 
 
@@ -65,7 +406,7 @@ Updated the hyphenation patterns to 2011-10-07 (from LibreOffice):
 Updated the Dictionaries:
 - British (Marco A.G.Pinto)*
   * British has 1107 new words (2016-06-01) + 738 new words (2016-07-01).
-    It now uses NOSUGGEST keyword for offensive words.
+	It now uses NOSUGGEST keyword for offensive words.
 	It now uses COMPOUNDING (Áron Budea)
 
 
