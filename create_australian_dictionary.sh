@@ -9,7 +9,7 @@ mkdir pronunciation_dictionary
 cd pronunciation_dictionary
 
 # get newest dictionary (and update the name) from http://extensions.libreoffice.org/extension-center/english-dictionaries
-wget https://extensions.libreoffice.org/extensions/english-dictionaries/2017-07.01/@@download/file/dict-en-20170701.oxt
+wget https://downloads.sourceforge.net/project/aoo-extensions/17102/70/dict-en-20211001.oxt
 unzip dict-en*
 unmunch en_AU.dic en_AU.aff > australian-wordlist.txt
 
