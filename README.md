@@ -8,9 +8,9 @@ It is based on Apache OpenOffice spelling suggestions, which generate possible c
 ## Notes
 
 The resulting output are located in the /output folder. 
-- [pronunciation_lexicon/australian-english-lexicon.txt](australian-english-lexicon.txt): SAMPA format tab delimited list
-- [pronunciation_dictionary/australian-english-dictionary.xml](australian-english-dictionary.xml): IPA format xml lexicon format
-- [pronunciation_lexicon/australian-english-lexicon-ipa.txt](australian-english-lexicon-ipa.txt): IPA format tab delimited list
+- [pronunciation_lexicon/australian-english-lexicon.txt](pronunciation_lexicon/australian-english-lexicon.txt): SAMPA format tab delimited list
+- [pronunciation_dictionary/australian-english-dictionary.xml](pronunciation_dictionary/australian-english-dictionary.xml): IPA format xml lexicon format
+- [pronunciation_lexicon/australian-english-lexicon-ipa.txt](pronunciation_dictionary/australian-english-lexicon-ipa.txt): IPA format tab delimited list
 
 To create these files, the following scripts were run.
 - [create_australian_dictionary.sh](create_australian_dictionary.sh) 
